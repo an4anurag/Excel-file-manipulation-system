@@ -35,21 +35,6 @@ A minimal React example is also provided for frontend interaction.
 
 ---
 
-<h2> Project Structure</h2>
-
-excel_file-manipulation-system/
-│── main.py # FastAPI entry point
-│── routers/
-│ └── file_routes.py
-│── services/
-│ └── file_service.py
-│── utils/
-│ └── file_utils.py
-│── storage/
-│ └── uploaded.xlsx
-
----
-
 <h2> Setup & Run</h2>
 
 <b>1. Install dependencies</b> pip install -r requirements.txt (for fastapi backtend) & npm i (for react frontend)
